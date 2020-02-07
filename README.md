@@ -4,10 +4,11 @@
 ---
 
 - Glossário:
-  - 1. Introdução ao python;
-  - 2. Trabalhando com Tuplas;
-  - 3. Trabalhando com dicionários;
-  - 4. Funções e pacotes;
-  - 5. Pandas básico.
+  - Introdução ao python;
+    - Teste
+  - Trabalhando com Tuplas;
+  - Trabalhando com dicionários;
+  - Funções e pacotes;
+  - Pandas básico.
 
 
