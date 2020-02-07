@@ -5,7 +5,6 @@
 
 - Glossário:
   - Introdução ao python;
-    - Teste
   - Trabalhando com Tuplas;
   - Trabalhando com dicionários;
   - Funções e pacotes;
